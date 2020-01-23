@@ -12,9 +12,9 @@ By creating a platform that easily allows them to organize tasks and goals
 This app aims to provide users with a satisfying experience that encourages the completion of their tasks and development of their skills
 
 # MAIN FEATURES
-Login/Logout - To maintain user data accross devices
-Create Goals - Daily and Long Term | aka Milestones | Associated with Task completion and Skill development
-             - Must have associated Tasks
+Login/Logout - To maintain user data accross devices\n
+Create Goals - Daily and Long Term | aka Milestones | Associated with Task completion and Skill development\n
+             - Must have associated Tasks\n
 Create Tasks - Can be associated with Goals accomplishments and Skill development, or general
              - Can be repeated daily, weekly, monthly, yearly
              - Set a timer with alarm for timed activities
