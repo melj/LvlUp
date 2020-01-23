@@ -28,8 +28,11 @@ Goals Page - Display current goals with progress bar
 Task Page - View a single task, it's specifics, start the timer (if present) to complete it
 
 
-# EXTRA FEATURES
-Skill degredation - if user doesn't actively work at their tasks, user will lose experience points towards that skillset
+# EXTRA FEATURES (maybe/not)
+Skill degredation - if user doesn't actively work at their tasks, user will lose experience points towards that skillset or HP
 Tutorial - first time users will be guided into creating their first set of Goals, Skills and Tasks. Then learn how to navigate the app, create additional items, edit items, delete items, and complete the Tutorial Task
 Unlock special items for avatar - When user reaches certain milestones in the app
 Coin system - User gains coins for every task completion/goal completion/level up and can purchase avatar items
+Over Time Progress charts - to visually display a user's progress over time using line charts/bar charts/pie charts
+Inspirational Quotes - Motivate the user with cheerful words
+Board of Achievements - Weekly or Monthly report of achivements (goals completed/tasks completed/...)
